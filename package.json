@@ -14,7 +14,7 @@
     "@popperjs/core": "2.9.2",
     "bootstrap": "3.3.7",
     "firebase": "4.9.0",
-    "font-awesome": "^4.7.0",
+    "font-awesome": "4.7.0",
     "rxjs": "6.6.7",
     "rxjs-compat": "6.6.7",
     "tslib": "2.2.0",
